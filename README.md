@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Hi 👋, I'm Haithem
 A passionate JavaScript developer 
 
@@ -10,4 +10,4 @@ A passionate JavaScript developer
 
 
 
--->
+
