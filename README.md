@@ -2,10 +2,7 @@
 
 ## 🚀 About Me
 
-Hi 👋, I'm Haithem
-A passionate JavaScript developer 
-
-🌱 I’m currently learning ServiceNow
+Hi 👋, I'm Haithem, a passionate developer with a thirst for knowledge. I'm currently learning ServiceNow, and I'm excited to use my skills to help businesses improve their efficiency and productivity
 
 Connect with me:
 <div align="left">
